@@ -1,0 +1,28 @@
+/* content, padding, border, margin */
+.card {
+    font-size: 16px;
+    color: #333333;
+    font-family: "Google Sans", "Roboto", sans-serif;
+    background-color: #f0f0f0;
+    padding: 30px;
+    border: 1px solid #dddddd;
+    border-radius: 12px;
+    margin: 30px;
+    max-width: 550px;
+}
+
+h2 {
+    text-align: center;
+    margin-top:0;
+}
+.highlight {
+    color:#d63031;
+    font-weight:bold;
+}
+button {
+    background-color:#2b69e8;
+    color:white;
+    border:none;
+    padding:8px 16px;
+    border-radius:6px;
+}
